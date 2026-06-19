@@ -1,0 +1,3 @@
+AutoHideCursor
+
+yifangjinxing@gmail.com
